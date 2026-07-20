@@ -2,7 +2,7 @@
   <img src="./assets/profile-header.svg" alt="Joao Kido - AI systems, product tools, simulations, research" width="100%" />
 </p>
 
-<h1 align="center">Kido</h1>
+<h1 align="center">João Kido</h1>
 
 <p align="center">
   <a href="https://github.com/kidoexpress">
