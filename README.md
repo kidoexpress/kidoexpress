@@ -1,18 +1,4 @@
-
-
 <h1 align="center">João Kido</h1>
-
-<p align="center">
-  <a href="https://github.com/kidoexpress">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=6EE7B7&center=true&vCenter=true&width=760&lines=AI+systems+builder;CS+%2B+Economics+%40+UC+Berkeley;Product-minded+researcher;Simulations%2C+interfaces%2C+and+public-impact+tools" alt="Typing animation describing Joao Kido" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kidoexpress&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
-  <a href="https://github.com/kidoexpress?tab=repositories"><img src="https://img.shields.io/badge/building-public%20tools-6EE7B7?style=flat-square&labelColor=0B1117" alt="Building public tools" /></a>
-  <a href="https://github.com/kidoexpress"><img src="https://img.shields.io/badge/focus-AI%20%7C%20Product%20%7C%20Systems-38BDF8?style=flat-square&labelColor=0B1117" alt="Focus: AI, Product, Systems" /></a>
-</p>
 
 ---
 
