@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Joao Kido - AI systems, product tools, simulations, research" width="100%" />
-</p>
+
 
 <h1 align="center">João Kido</h1>
 
